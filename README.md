@@ -1,4 +1,4 @@
-<img width="300px" height="auto" src="Thunder.png" height="300px"/> 
+<center><img height="auto" src="Thunder.png"/></center>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rehan</h1>
 <h3 align="center">I'm a passionate Computer Engineer from Pakistan.</h3>
 
